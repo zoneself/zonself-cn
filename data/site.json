@@ -46,7 +46,10 @@
             "placeholder_zh": "如：雄鹰\/Eagle（建议多介绍下品牌）",
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
             "value": "固晓",
-            "images": [],
+            "images": [
+                59748,
+                59658
+            ],
             "image_captions": []
         },
         {
@@ -308,50 +311,7 @@
             "placeholder_en": "Profile URL"
         }
     ],
-    "product_categories": [
-        {
-            "id": "c1793606030550_411",
-            "name_zh": "等速万向节防尘罩",
-            "name_en": "",
-            "children": []
-        },
-        {
-            "id": "c1793606033271_4349",
-            "name_zh": "转向拉杆防尘罩",
-            "name_en": "",
-            "children": []
-        },
-        {
-            "id": "c1793606041884_935",
-            "name_zh": "传动轴防尘罩",
-            "name_en": "",
-            "children": []
-        },
-        {
-            "id": "c1793606051065_2792",
-            "name_zh": "减震器防尘罩",
-            "name_en": "",
-            "children": []
-        },
-        {
-            "id": "c1793606056300_4026",
-            "name_zh": "平衡杆衬套",
-            "name_en": "",
-            "children": []
-        },
-        {
-            "id": "c1793606062386_2124",
-            "name_zh": "橡胶O型圈",
-            "name_en": "",
-            "children": []
-        },
-        {
-            "id": "c1793606068654_6605",
-            "name_zh": "气门室垫片",
-            "name_en": "",
-            "children": []
-        }
-    ],
+    "product_categories": [],
     "products": [],
     "faqs": [],
     "cases": [],
@@ -384,7 +344,7 @@
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-02 15:54:33",
+    "updated_at": "2026-11-02 15:57:45",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-en\/",

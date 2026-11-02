@@ -29,6 +29,14 @@
         "telephone": "+86 150 7595 6365",
         "email": "info@rubberautoparts.com"
     },
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/新公司固晓logo透明色.png"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/新公司固晓logo透明色.png"
+    },
     "url": "https:\/\/rubberautoparts.com\/",
     "@id": "https:\/\/zoneself.github.io\/zonself-cn\/#organization"
 }
