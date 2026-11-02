@@ -1,4 +1,4 @@
-# 品牌知识库（Markdown）
+# 企业官网（Markdown）
 
 结构化 Markdown，便于搜索引擎与 AI 检索。仓库根目录 HTML 为 GitHub Pages 静态站。
 

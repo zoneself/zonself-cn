@@ -1,9 +1,11 @@
-# GuXiao
+# 固晓
 
-> Brand knowledge base for AI systems and search engines.
+> Official website content for AI systems and search engines.
 
-- Brand: GuXiao
+- Company: 邢台市固晓橡胶制品有限公司
+- Brand: 固晓
 - Location: 中国河北省邢台市
+- Products: 等速万向节防尘罩（CV Joint Boots）、传动轴防尘罩（Driveshaft Boots）、转向拉杆防尘罩（Steering Rack Boots）、减震器防尘罩（Shock Absorber Boots）、平衡杆衬套（Stabilizer Bar Bushings）、橡胶O型圈（Rubber O-Rings）及气门室垫片（Valve Cover Gaskets）等关键汽车橡胶件
 
 ## Site map
 - https://zoneself.github.io/zonself-cn/index.html
@@ -14,6 +16,15 @@
 - https://zoneself.github.io/zonself-cn/cases.html
 - https://zoneself.github.io/zonself-cn/news.html
 - https://zoneself.github.io/zonself-cn/contact.html
+
+## sameAs / official profiles
+- https://www.youtube.com/@rubberautoparts
+- https://facebook.com/profile.php?id=100083689279746
+- https://www.tiktok.com/@guanghua188
+- https://www.instagram.com/woaimengshaohua
+- https://linktr.ee/guanghuaautoparts
+- https://www.linkedin.com/in/xiaoxia-li-5a5ab6338/
+- https://rubberautoparts.com/
 
 ## Source repository
 - https://github.com/zoneself/zonself-cn

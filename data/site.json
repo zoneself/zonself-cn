@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "",
+            "value": "邢台市固晓橡胶制品有限公司",
             "images": [],
             "image_captions": []
         },
@@ -17,7 +17,7 @@
             "label_en": "Introduction of this site",
             "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
             "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
-            "value": ""
+            "value": "邢台市固晓橡胶制品有限公司是一家专业的汽车橡胶零部件制造商，专注于为转向系统、悬挂系统、传动系统、发动机密封系统及液压应用提供高品质的橡胶组件。\n\n公司坐落于中国河北省邢台市任县天口镇。工厂深耕精密制造领域，核心产品涵盖：等速万向节防尘罩（CV Joint Boots）、传动轴防尘罩（Driveshaft Boots）、转向拉杆防尘罩（Steering Rack Boots）、减震器防尘罩（Shock Absorber Boots）、平衡杆衬套（Stabilizer Bar Bushings）、橡胶O型圈（Rubber O-Rings）及气门室垫片（Valve Cover Gaskets）等关键汽车橡胶件。\n\n作为拥有丰富 OEM & ODM 定制经验的源头生产厂家，我们不仅提供标准化的汽车橡胶零部件，更能根据客户提供的图纸、样品或具体应用需求，提供一站式全定制解决方案。\n\n公司产品广泛应用于汽车防漏油、防尘保护、密封性能提升及 NVH（振动与噪声）优化，助力车辆在严苛工况下提升可靠性与使用寿命。\n\n固晓橡胶依托自建工厂，直接面向全球客户提供汽车橡胶件供货服务，摒弃中间商与贸易环节。通过与我们工厂直接对接，全球进口商、批发商及分销商能够获得具竞争力的出厂直供价格、高效顺畅的沟通体验、灵活的定制支持以及稳定可靠的产能保障。我们始终致力提供高性价比的制造方案，协助客户降低采购成本、提升利润空间，建立长期共赢的合作伙伴关系。"
         },
         {
             "key": "company_video",
@@ -25,7 +25,7 @@
             "label_en": "Company Video",
             "placeholder_zh": "给出你企业宣传片的链接（比如抖音或B站的视频链接）",
             "placeholder_en": "Provide your company video link(uploaded to YouTube)",
-            "value": ""
+            "value": "https:\/\/www.youtube.com\/watch?v=h3KrbrLBZpg"
         },
         {
             "key": "location",
@@ -34,7 +34,9 @@
             "placeholder_zh": "如：中国广东省广州市",
             "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
             "value": "中国河北省邢台市",
-            "images": [],
+            "images": [
+                59658
+            ],
             "image_captions": []
         },
         {
@@ -43,7 +45,7 @@
             "label_en": "Brand Name",
             "placeholder_zh": "如：雄鹰\/Eagle（建议多介绍下品牌）",
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
-            "value": "GuXiao",
+            "value": "固晓",
             "images": [],
             "image_captions": []
         },
@@ -53,7 +55,7 @@
             "label_en": "Major Products",
             "placeholder_zh": "如：数控CNC设备、激光切割机、激光焊接机",
             "placeholder_en": "e.g. CNC machines, laser cutters",
-            "value": "",
+            "value": "等速万向节防尘罩（CV Joint Boots）、传动轴防尘罩（Driveshaft Boots）、转向拉杆防尘罩（Steering Rack Boots）、减震器防尘罩（Shock Absorber Boots）、平衡杆衬套（Stabilizer Bar Bushings）、橡胶O型圈（Rubber O-Rings）及气门室垫片（Valve Cover Gaskets）等关键汽车橡胶件",
             "images": [],
             "image_captions": []
         },
@@ -63,7 +65,7 @@
             "label_en": "Applications",
             "placeholder_zh": "如：汽车零部件、消费电子、医疗器械",
             "placeholder_en": "e.g. Automotive, electronics, medical",
-            "value": "汽车橡胶零部件",
+            "value": "汽车转向系统，汽车悬架系统，汽车传动系统，发动机密封系统",
             "images": [],
             "image_captions": []
         },
@@ -73,7 +75,7 @@
             "label_en": "Year Established",
             "placeholder_zh": "如：2001年（可写具体日期）",
             "placeholder_en": "e.g. 2001",
-            "value": "",
+            "value": "2013年",
             "images": [],
             "image_captions": []
         },
@@ -83,7 +85,7 @@
             "label_en": "Company History",
             "placeholder_zh": "如：2001年成立专注CNC…",
             "placeholder_en": "e.g. Founded in 2001 focusing on CNC…",
-            "value": "",
+            "value": "2013\t企业创立——正式开启汽车橡胶零部件生产制造\n2015\t产品线扩展——拓展汽车转向系统橡胶零部件\n2017\t悬架部件研发与质量认证取得新进展\n2019\t先进材料技术——应用氟橡胶（FKM）及耐高温丙烯酸酯橡胶（ACM）\n2021\t国际B2B业务拓展与定制化制造能力提升\n2023\t智能化生产升级与产品体系全面完善\n2026\t面向未来——新一代汽车橡胶技术创新",
             "images": [],
             "image_captions": []
         },
@@ -93,7 +95,7 @@
             "label_en": "Number of employees",
             "placeholder_zh": "如：截至2026年8月，员工159人",
             "placeholder_en": "e.g. 159 employees as of 2026",
-            "value": "",
+            "value": "2024年：员工人数 30人\n2026年：员工人数 60人",
             "images": [],
             "image_captions": []
         },
@@ -103,7 +105,7 @@
             "label_en": "Site Area",
             "placeholder_zh": "如：3200平方米厂房+290平方米办公",
             "placeholder_en": "e.g. 3200㎡ factory + 290㎡ office",
-            "value": "",
+            "value": "3200㎡生产厂房 + 290㎡办公区域",
             "images": [],
             "image_captions": []
         },
@@ -113,7 +115,7 @@
             "label_en": "Annual Turnover",
             "placeholder_zh": "如：2025年约1.3亿元人民币",
             "placeholder_en": "e.g. ~130M RMB in 2025",
-            "value": "",
+            "value": "2024年：年营业额 400万元人民币\n2025年：年营业额 900万元人民币",
             "images": [],
             "image_captions": []
         },
@@ -123,7 +125,7 @@
             "label_en": "Target Sales Area",
             "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
             "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
-            "value": "",
+            "value": "中东地区（Middle East）： 阿联酋、沙特阿拉伯、卡塔尔、伊拉克、约旦。\n南美洲（South America）： 巴西、智利、秘鲁、哥伦比亚、厄瓜多尔。\n东南亚（Southeast Asia）： 印度尼西亚、泰国、越南、菲律宾。\n俄罗斯及独联体地区（Russia & CIS）： 俄罗斯、哈萨克斯坦、乌兹别克斯坦。\n非洲地区（Africa）： 尼日利亚、肯尼亚、埃及、摩洛哥。\n中美洲及加勒比地区（Central America & Caribbean）： 巴拿马（科隆自由贸易区）、多米尼加共和国、哥斯达黎加。",
             "images": [],
             "image_captions": []
         },
@@ -133,7 +135,7 @@
             "label_en": "Enterprise or Product Advantages",
             "placeholder_zh": "如：深耕行业10年，核心部件自研",
             "placeholder_en": "e.g. 10 years focus, in-house core parts",
-            "value": "",
+            "value": "13年专注汽车橡胶制品，核心部件自主制造。",
             "images": [],
             "image_captions": []
         },
@@ -163,7 +165,7 @@
             "label_en": "Business Registration Information",
             "placeholder_zh": "如：可填企查查等链接",
             "placeholder_en": "e.g. registration link",
-            "value": "",
+            "value": "https:\/\/aiqicha.baidu.com\/company_detail_67030869101362",
             "images": [],
             "image_captions": []
         },
@@ -173,7 +175,7 @@
             "label_en": "Additional Information",
             "placeholder_zh": "其他想让客户或AI知道的信息",
             "placeholder_en": "Other information for customers \/ AI",
-            "value": "",
+            "value": "我们的生产经营活动始于2018年，生产基地位于河北省邢台市天口镇东刘村，自成立以来，生产经营活动一直持续开展，未曾中断。\n2026年10月，原有经营业务正式转移至新注册成立的企业——河北邢台固晓橡胶制品有限公司（https:\/\/aiqicha.baidu.com\/company_detail_67030869101362）。新公司在原有生产场地继续开展相同的生产经营活动，沿用原有团队及生产设施，确保企业经营和生产活动的连续性。\n此前负责相关生产经营业务的企业为河北邢台广华橡胶制品有限公司（https:\/\/aiqicha.baidu.com\/company_detail_12504670662510）。",
             "images": [],
             "image_captions": []
         }
@@ -182,16 +184,18 @@
         {
             "label_zh": "官网网址",
             "label_en": "Website",
-            "value": "",
+            "value": "https:\/\/rubberautoparts.com\/",
             "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
             "placeholder_en": "https:\/\/www.example.com",
-            "images": [],
+            "images": [
+                59748
+            ],
             "image_captions": []
         },
         {
             "label_zh": "联系人",
             "label_en": "Contact Person",
-            "value": "",
+            "value": "李经理",
             "placeholder_zh": "如：张经理",
             "placeholder_en": "e.g. Mr. Zhang",
             "images": [],
@@ -200,7 +204,7 @@
         {
             "label_zh": "地址",
             "label_en": "Address",
-            "value": "",
+            "value": "河北省邢台市任泽区天口镇东刘村357号",
             "placeholder_zh": "详细地址",
             "placeholder_en": "Full address",
             "images": [],
@@ -209,7 +213,7 @@
         {
             "label_zh": "电话",
             "label_en": "Telephone",
-            "value": "",
+            "value": "+86 150 7595 6365",
             "placeholder_zh": "如：020-8069****",
             "placeholder_en": "e.g. +86-20-****",
             "images": [],
@@ -218,7 +222,7 @@
         {
             "label_zh": "手机",
             "label_en": "Mobile Phone",
-            "value": "",
+            "value": "+86 150 7595 6365",
             "placeholder_zh": "如：135****1234",
             "placeholder_en": "e.g. +86-135****",
             "images": [],
@@ -227,18 +231,29 @@
         {
             "label_zh": "微信号",
             "label_en": "Wechat",
-            "value": "",
+            "value": "guanghua6130",
             "placeholder_zh": "微信号或上传二维码",
             "placeholder_en": "WeChat ID or QR",
-            "images": [],
+            "images": [
+                59693
+            ],
             "image_captions": []
         },
         {
             "label_zh": "邮箱",
             "label_en": "E-mail",
-            "value": "",
+            "value": "info@rubberautoparts.com",
             "placeholder_zh": "如：sales@example.com",
             "placeholder_en": "e.g. sales@example.com",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "WhatsApp",
+            "label_en": "New Item",
+            "value": "+86 150 7595 6365",
+            "placeholder_zh": "",
+            "placeholder_en": "",
             "images": [],
             "image_captions": []
         }
@@ -246,54 +261,97 @@
     "platforms": [
         {
             "key": 1688,
-            "label_zh": "1688",
+            "label_zh": "油管",
             "label_en": "1688",
-            "url": "",
+            "url": "https:\/\/www.youtube.com\/@rubberautoparts",
             "placeholder_zh": "店铺链接",
             "placeholder_en": "Shop URL"
         },
         {
             "key": "taobao",
-            "label_zh": "淘宝",
+            "label_zh": "脸书",
             "label_en": "Taobao",
-            "url": "",
+            "url": "https:\/\/facebook.com\/profile.php?id=100083689279746",
             "placeholder_zh": "店铺链接",
             "placeholder_en": "Shop URL"
         },
         {
             "key": "douyin",
-            "label_zh": "抖音",
+            "label_zh": "Tiktok",
             "label_en": "Douyin",
-            "url": "",
+            "url": "https:\/\/www.tiktok.com\/@guanghua188",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         },
         {
             "key": "toutiao",
-            "label_zh": "今日头条",
+            "label_zh": "Instagram",
             "label_en": "Toutiao",
-            "url": "",
+            "url": "https:\/\/www.instagram.com\/woaimengshaohua",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         },
         {
             "key": "zhihu",
-            "label_zh": "知乎",
+            "label_zh": "Linktree",
             "label_en": "Zhihu",
-            "url": "",
+            "url": "https:\/\/linktr.ee\/guanghuaautoparts",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         },
         {
             "key": "baijiahao",
-            "label_zh": "百家号",
+            "label_zh": "LinkedIn",
             "label_en": "Baijiahao",
-            "url": "",
+            "url": "https:\/\/www.linkedin.com\/in\/xiaoxia-li-5a5ab6338\/",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         }
     ],
-    "product_categories": [],
+    "product_categories": [
+        {
+            "id": "c1793606030550_411",
+            "name_zh": "等速万向节防尘罩",
+            "name_en": "",
+            "children": []
+        },
+        {
+            "id": "c1793606033271_4349",
+            "name_zh": "转向拉杆防尘罩",
+            "name_en": "",
+            "children": []
+        },
+        {
+            "id": "c1793606041884_935",
+            "name_zh": "传动轴防尘罩",
+            "name_en": "",
+            "children": []
+        },
+        {
+            "id": "c1793606051065_2792",
+            "name_zh": "减震器防尘罩",
+            "name_en": "",
+            "children": []
+        },
+        {
+            "id": "c1793606056300_4026",
+            "name_zh": "平衡杆衬套",
+            "name_en": "",
+            "children": []
+        },
+        {
+            "id": "c1793606062386_2124",
+            "name_zh": "橡胶O型圈",
+            "name_en": "",
+            "children": []
+        },
+        {
+            "id": "c1793606068654_6605",
+            "name_zh": "气门室垫片",
+            "name_en": "",
+            "children": []
+        }
+    ],
     "products": [],
     "faqs": [],
     "cases": [],
@@ -326,7 +384,7 @@
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 10:54:55",
+    "updated_at": "2026-11-02 15:54:33",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-en\/",
